@@ -1,7 +1,7 @@
 ## Hello World! I'm Setya Iqbal 👋
 
 # 💫 About Me:
-🧑‍💻 I’m currently working on: my GitHub profile and web projects    <br>📚 I’m currently learning: Python <br>💬 Ask me about: student life in Informatics and my interest in tech  <br>⚡ Fun fact: I love Playing Basketball<br>
+🧑‍💻 I’m currently working on: my web projects    <br>📚 I’m currently learning: Python <br>💬 Ask me about: student life in Informatics and my interest in tech  <br>⚡ Fun fact: I love Playing Basketball<br>
 
 
 ## 🌐 Socials:
